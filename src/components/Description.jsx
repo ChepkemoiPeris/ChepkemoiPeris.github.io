@@ -23,11 +23,7 @@ function Description(){
           </div>
           <div className="col-lg-8 align-self-baseline">
             <p className="text-white-75 mb-5">
-<<<<<<< HEAD
               I am a full stack software developer based in Nairobi,Kenya.This is my portfolio,which I build with React.js
-=======
-              I am a full stack software developer based in Nairobi,Kenya.
->>>>>>> a120e4f032e903a5e4ae4be7785e54bbdc62ff92
             </p>
             <a className="btn btn-primary btn-xl" href="#contact">Get in touch</a>
           </div>
