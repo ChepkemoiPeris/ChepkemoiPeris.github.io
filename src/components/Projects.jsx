@@ -138,7 +138,9 @@ function Projects() {
             <div className="card-body">
               <h5 className="card-title">Calculator</h5>
               <p className="card-text">
-                A simple calculator Implimented using html,css and javascript 
+ 
+                A simple calculator Implimented using html,css and javascript  
+ 
               </p>
               <p className="card-text">
                 <small className="text-muted">

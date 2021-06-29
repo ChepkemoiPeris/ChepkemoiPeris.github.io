@@ -24,6 +24,7 @@ function Description(){
           <div className="col-lg-8 align-self-baseline">
             <p className="text-white-75 mb-5">
  
+ 
               I am a full stack software developer based in Nairobi,Kenya.This is my portfolio,which I build with React.js
  
             </p>
