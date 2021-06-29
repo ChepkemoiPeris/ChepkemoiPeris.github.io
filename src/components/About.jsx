@@ -12,7 +12,8 @@ function About(){
                   Peris is a full stack software developer with 2 years of experience and bachelor of science in computer science from Moi University. 
                   My experience is from working for a software development compnay, building my own software and also freelancing. I like researching,reading novels,watching movies and playing when am not coding.
               </p>
-              <a className="btn btn-light btn-xl" href="#skills">See more about my skills</a>
+              <a className="btn btn-light btn-xl" href="#skills">See more about my skills </a>
+        
             </div>
           </div>
         </div>
