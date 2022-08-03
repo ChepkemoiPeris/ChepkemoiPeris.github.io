@@ -10,7 +10,7 @@ function About(){
               <hr className="divider divider-light" />
               <p className="text-white-75 mb-4">
                   Peris is a full stack software developer with 2 years of experience and bachelor of science in computer science from Moi University. 
-                  My experience is from working for a software development compnay, building my own software and also freelancing. I like researching,reading novels,watching movies and playing when am not coding.
+                  My experience is from working for a software development company, building my own software and also freelancing. I like researching,reading novels,watching movies and playing tennis when I am not coding.
               </p>
               <a className="btn btn-light btn-xl" href="#skills">See more about my skills </a>
         
